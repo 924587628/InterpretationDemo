@@ -1,6 +1,6 @@
 package com.comment;
 
-@Table("sunxy")
+@Table(" 这是User类的注解内容")
 public class User {
 
 	@Filed(name = "这是User类的name属性")
